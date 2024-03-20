@@ -1,0 +1,28 @@
+{
+  "userdata": [
+    {
+      "id": "1",
+      "brand": "tata",
+      "carname": "sumo gold",
+      "avarage": "20km/l"
+    },
+    {
+      "id": "2",
+      "brand": "tata",
+      "carname": "sumo",
+      "avarage": "20km/l"
+    },
+    {
+      "id": "3",
+      "brand": "lexis",
+      "carname": "x5",
+      "avarage": "20km/l"
+    },
+    {
+      "id": "4",
+      "brand": "safari",
+      "carname": "indigo",
+      "avarage": "20km/l"
+    }
+  ]
+}
